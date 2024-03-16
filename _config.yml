@@ -39,8 +39,8 @@ header_pages:
   - contact.md
 minima:
   social_links:
-    - { platform: github,  user_url: "https://github.com/jekyll/jekyll" }
-    - { platform: twitter, user_url: "https://twitter.com/jekyllrb" }
+    - { platform: github,  user_url: "https://github.com/johnmichealacera" }
+    - { platform: twitter, user_url: "https://twitter.com/AceraJm" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
